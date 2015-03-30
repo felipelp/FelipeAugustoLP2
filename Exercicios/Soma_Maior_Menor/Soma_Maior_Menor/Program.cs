@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SomaMaioreMenor
+namespace Soma_Maior_Menor
 {
     class Program
     {
@@ -16,7 +16,7 @@ namespace SomaMaioreMenor
             double maior = 0;
             double menor = 0;
 
-            Console.Write("Ns a Ler: ");
+            Console.Write("Qtd de números a ler: ");
             n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
@@ -27,7 +27,7 @@ namespace SomaMaioreMenor
                 {
                     maior = num;
                 }
-                else if (num < menor && menor == 0)
+                if (num < menor || menor == 0)
                 {
                     menor = num;
                 }
