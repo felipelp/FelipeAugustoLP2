@@ -32,7 +32,7 @@ namespace Media_ComArrayList
             r = r / ns.Count;
 
             Console.WriteLine(r);
-            Console.ReadKey);
+            Console.ReadKey();
         }
     }
 }
