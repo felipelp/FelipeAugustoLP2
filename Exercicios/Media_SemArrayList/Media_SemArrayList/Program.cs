@@ -26,7 +26,7 @@ namespace Media_SemArrayList
             r = r / k;
 
             Console.WriteLine(r);
-            Console.ReadKey);
+            Console.ReadKey();
         }
     }
 }
