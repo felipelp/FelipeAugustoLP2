@@ -25,7 +25,7 @@ namespace Exercicio_Vogais
 
             Console.WriteLine("Número de vogais: {0}", vogais);
 
-            Console.ReadKey();
+            Console.ReadKey(;
         }
     }
 }
