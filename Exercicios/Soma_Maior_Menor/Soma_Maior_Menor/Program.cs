@@ -36,7 +36,7 @@ namespace Soma_Maior_Menor
             }
 
             Console.WriteLine("Maior: {0} , Menor: {1}, Soma: {2}", maior, menor, soma);
-            Console.ReadKey();
+            Console.ReadKey);
         }
     }
 }
