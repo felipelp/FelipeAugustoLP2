@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComHeranca", "ConsoleApplication1\ComHeranca.csproj", "{C4F61EAB-FB82-403C-85EE-F5876F945040}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_15_09_2015", "Heranca_15_09_2015\Heranca_15_09_2015.csproj", "{1F483AA1-A937-43D6-90E0-812A183B7976}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C4F61EAB-FB82-403C-85EE-F5876F945040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4F61EAB-FB82-403C-85EE-F5876F945040}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4F61EAB-FB82-403C-85EE-F5876F945040}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4F61EAB-FB82-403C-85EE-F5876F945040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F483AA1-A937-43D6-90E0-812A183B7976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F483AA1-A937-43D6-90E0-812A183B7976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F483AA1-A937-43D6-90E0-812A183B7976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F483AA1-A937-43D6-90E0-812A183B7976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

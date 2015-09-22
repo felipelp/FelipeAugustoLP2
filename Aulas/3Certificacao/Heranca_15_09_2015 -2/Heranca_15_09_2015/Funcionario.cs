@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace Heranca_15_09_2015
 {
     class Funcionario
     {
@@ -12,6 +12,6 @@ namespace ConsoleApplication1
         public int CPF { get; set; }
         public DateTime DataNascimento { get; set; }
         public double Salario { get; set; }
-        public string Matricula { get; set; }   
+        public string Matricula { get; set; }
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace Heranca_15_09_2015
 {
-    class Gerente:Funcionario
+    class Gerente : Funcionario
     {
         public string AreaGerenciada { get; set; }
         public double Adicional { get; set; }
@@ -15,6 +15,5 @@ namespace ConsoleApplication1
         {
             return Salario + Adicional;
         }
-        
     }
 }

@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace Heranca_15_09_2015
 {
-    class Program
+    class Terceirizado
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
